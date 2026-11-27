@@ -1,0 +1,9 @@
+#pragma once
+
+// DITO ILALAGAY ANG REAL VALUES
+
+const char *WIFI_SSID  = "YOUR_WIFI_NAME";
+const char *WIFI_PASS  = "YOUR_WIFI_PASSWORD";
+
+const char *API_TOKEN  = "YOUR_IPROGSMS_API_TOKEN";
+const char *PHONE_NUMS = "09XXXXXXXXX";  
